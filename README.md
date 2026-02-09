@@ -1,8 +1,8 @@
 # Instagram Influencer Analysis with NLP and Machine Learning
 
-# Instagram Influencer Category Prediction
+## Instagram Influencer Category Prediction
 
-## Overview
+### Overview
 
 This repository contains the code and resources for a project aimed at classifying Instagram influencers into predefined categories based on the content of their posts and profile information. The project leverages various machine learning and natural language processing (NLP) techniques.
 
